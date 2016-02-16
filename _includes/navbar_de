@@ -1,0 +1,26 @@
+<div id="header" class="navbar navbar-default navbar-fixed-top">
+  <div class="container">   
+    <div class="navbar-header">
+            <a class="navbar-brand" href="{{ site.base_url }}/de.html">
+              <img alt="" src="{{ site.base_url }}/images/" style="max-width: 80px; max-height: 80px; float:left; margin-right:20px; " />
+                <p class="title">{{ page.title }}</p>
+            </a>
+    </div>
+  
+     <div class="nav navbar nav">
+        <ul class="nav navbar-nav pull-right">
+            <li>
+                <a href="{{ site.base_url }}/.html">DEU</a>
+            </li>
+            <li>
+              <a href="{{ site.base_url }}/.html"></a> 
+            </li>
+            <li>
+                <a href="{{ site.base_url }}/.html">ENG</a>
+            </li>
+        </ul>
+    </div>
+
+  </div>
+</div>
+
