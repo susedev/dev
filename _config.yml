@@ -1,5 +1,5 @@
 title: "dev"
-base_url: "" # http://jekyllrb.com/docs/github-pages/#project-page-url-structure
+base_url: "/dev" # http://jekyllrb.com/docs/github-pages/#project-page-url-structure
 defaults:
   - scope: {path: ""}
     values:
